@@ -49,6 +49,7 @@ Through this simulation, I gained hands-on experience in:
 - **AI Application in Finance:** Developed an AI solution for extracting insights from structured financial data.
 - **Data Interpretation and Analysis:** Utilized `pandas` for efficient data manipulation, ensuring accurate and relevant insights.
 - **Rule-Based Logic in AI:** Implemented decision-making logic that empowers the chatbot to respond based on financial report data.
+![image](https://github.com/user-attachments/assets/4c0ad5f1-afb3-4397-9070-6c30c936d35f)
 
 ---
 

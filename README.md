@@ -36,7 +36,7 @@ To explore the chatbot project:
 
 1. **Clone this repository.**
     ```bash
-    git clone https://github.com/yourusername/bcg-genai-simulation.git
+    git clone https://github.com/deepmbhatt/BCG-GenAI-Job-Simulation---Forage.git
     ```
 2. **Navigate to the `chatbot/` directory** to review the code and data analysis process.
 3. **Execute Python scripts** to test the chatbot’s functionality.
